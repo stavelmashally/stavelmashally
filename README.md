@@ -22,18 +22,13 @@ Software Developer & Computer Science Student.
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 
 
-<br>
 <br/>
-<br>
+<br/>
+<br/>
 
-<details open>
-<summary>🤝 <b>How to reach me</b></summary>
+🤝 <b>How to reach me:</b>
 
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stav-elmashally-4a525a137/)
 [<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:stavelmashally6@gmail.com)
-
-</p>
-
-</details>

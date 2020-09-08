@@ -2,7 +2,7 @@
 
 Software Developer & Computer Science Student.
 
-- 👨🏻‍💻 Currently working, learning and growing my skillset in web development, data science, data structures and algorithms.
+- 👨🏻‍💻 Currently working, learning and growing my skillset in web development, data science and data structures & algorithms.
 - 🤝 Open for collaborations in web development and data science.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in web development and data science fields.

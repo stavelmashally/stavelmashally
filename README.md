@@ -2,10 +2,10 @@
 
 Full Stack Developer & Computer Science Student.
 
-- 👨🏻‍💻 Currently working, learning and growing my skillset in web development, data science and data structures & algorithms.
-- 🤝 Open for collaborations in web development and data science.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in web development and data science fields.
+- 👨🏻‍💻 Currently working, learning and growing my skillset in Web development and Data science.
+- 🤝 Open for collaborations in Web development.
+- 😊 Willing to contribute in open source development projects.
+- 👍 Looking for opportunities to join as an intern/full time in Web development.
 
 <b>Tech Stack</b>
 

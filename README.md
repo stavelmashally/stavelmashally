@@ -1,6 +1,6 @@
 ## Hi 👋 I am Stav! 
 
-Software Developer & Computer Science Student.
+Full Stack Developer & Computer Science Student.
 
 - 👨🏻‍💻 Currently working, learning and growing my skillset in web development, data science and data structures & algorithms.
 - 🤝 Open for collaborations in web development and data science.

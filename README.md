@@ -5,7 +5,6 @@ Full Stack Developer & Computer Science Student.
 - 👨🏻‍💻 Currently working, learning and growing my skillset in Web development and Data science.
 - 🤝 Open for collaborations in Web development.
 - 😊 Willing to contribute in open source development projects.
-- 👍 Looking for opportunities as a Web developer.
 
 <b>Tech Stack</b>
 

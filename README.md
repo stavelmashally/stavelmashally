@@ -1,6 +1,6 @@
 ## Hi 👋 I am Stav! 
 
-Frontend Developer & Computer Science Student.
+Frontend Developer.
 
 - 👨🏻‍💻 Currently working, learning and growing my skillset in Web development and Data science.
 - 🤝 Open for collaborations in Web development.

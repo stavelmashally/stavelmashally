@@ -1,6 +1,6 @@
 ## Hi 👋 I am Stav! 
 
-Frontend Developer.
+Fullstack Engineer.
 
 - 👨🏻‍💻 Currently working, learning and growing my skillset in Web development.
 - 🤝 Open for collaborations in Web development.

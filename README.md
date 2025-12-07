@@ -3,8 +3,6 @@
 Software Engineer.
 
 <br/>
-<br/>
-<br/>
 
 🤝 <b>How to reach me:</b>
 

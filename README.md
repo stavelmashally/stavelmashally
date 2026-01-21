@@ -1,6 +1,6 @@
 ## Hi 👋 I am Stav! 
 
-Software Engineer.
+AI & Backend Engineer.
 
 <br/>
 
